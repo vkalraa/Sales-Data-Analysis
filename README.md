@@ -23,7 +23,7 @@ This project analyzes a retail orders dataset to extract insights about **sales 
 
 ## 📂 Dataset Source
 The dataset is sourced from **Kaggle** and downloaded using the Kaggle API.  
-🔗 **Dataset Link:** [Kaggle Dataset](https://www.kaggle.com/datasets/ankitbansal06/retail-orders) _(replace with actual dataset link)_
+🔗 **Dataset Link:** [Kaggle Dataset](https://www.kaggle.com/datasets/ankitbansal06/retail-orders) 
 
 ---
 
